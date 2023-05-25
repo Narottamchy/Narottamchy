@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Narottamchy/Narottamchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +23,7 @@ I'm a software engineer with expertise in web development and a strong interest 
 
 ## Skills
 
-- Programming languages: JavaScript, Python, Java
+- Programming languages: JavaScript, Python, C++
 - Front-end technologies: HTML, CSS, React.js
 - Back-end frameworks: Node.js, Express.js
 - Database technologies: MongoDB, MySQL
@@ -38,7 +36,7 @@ I'm a software engineer with expertise in web development and a strong interest 
 
 ## Get in Touch
 
-- Email: [Send mail](narottam2363@gmail.com)
+- Email: narottam2363@gmail.com
 - LinkedIn: [Narottam Choudhary](https://www.linkedin.com/in/narottamchy)
 
 Feel free to reach out if you have any questions or collaboration ideas!
