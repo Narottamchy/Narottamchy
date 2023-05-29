@@ -1,4 +1,4 @@
-[![MasterHead]](https://github.com/Narottamchy/Narottamchy/blob/main/%40Narottamchy.gif)
+[![MasterHead](https://github.com/Narottamchy/Narottamchy/blob/main/%40Narottamchy.gif)]
 <h1 align="center">Hi 👋, I'm Narottam Choudhary</h1>
 <h3 align="center">Not only proficient in coding, but also skilled in music</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/10bxTLrpJNS0PC/giphy.gif?cid=ecf05e47zvuh17zpigbn3vsb5a56dcszha9yjbcgo5x4hjkn&ep=v1_gifs_related&rid=giphy.gif&ct=g">
