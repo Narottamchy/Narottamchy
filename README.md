@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](https://github.com/Narottamchy/Narottamchy/blob/main/%40Narottamchy.gif)
 <h1 align="center">Hi 👋, I'm Narottam Choudhary</h1>
 <h3 align="center">Not only proficient in coding, but also skilled in music</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/10bxTLrpJNS0PC/giphy.gif?cid=ecf05e47zvuh17zpigbn3vsb5a56dcszha9yjbcgo5x4hjkn&ep=v1_gifs_related&rid=giphy.gif&ct=g">
