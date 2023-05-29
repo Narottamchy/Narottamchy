@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Narottam Choudhary</h1>
 <h3 align="center">Not only proficient in coding, but also skilled in music</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/3ohzAufRmpaegI2LNS/giphy.gif?cid=ecf05e47vs2micn6uazuzddb67n65hu6rg525opx9m9yyk46&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/3ohzAufRmpaegI2LNS/giphy.gif?cid=ecf05e47vs2micn6uazuzddb67n65hu6rg525opx9m9yyk46&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narottamchy&label=Profile%20views&color=0e75b6&style=flat" alt="narottamchy" /> </p>
 
