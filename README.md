@@ -1,7 +1,6 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
-
 <h1 align="center">Hi 👋, I'm Narottam Choudhary</h1>
 <h3 align="center">Not only proficient in coding, but also skilled in music</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narottamchy&label=Profile%20views&color=0e75b6&style=flat" alt="narottamchy" /> </p>
 
