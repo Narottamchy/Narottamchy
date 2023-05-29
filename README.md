@@ -1,6 +1,7 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 <h1 align="center">Hi 👋, I'm Narottam Choudhary</h1>
 <h3 align="center">Not only proficient in coding, but also skilled in music</h3>
-![Demo GIF](https://th.bing.com/th/id/R.ae74466588ae577ba8dc164696242cac?rik=K0s9u5sQUYoE3w&riu=http%3a%2f%2f3.bp.blogspot.com%2f-fY4IvXRmXrk%2fUtA_4l0G0nI%2fAAAAAAAAAPI%2fDLiol-ZgDAo%2fs1600%2fspace-rthwj%2chgjkasf.gif&ehk=vDlY7TNBf50dmHinyGYo7p%2fw2Ho3zj3pdm6gCHEXbe4%3d&risl=&pid=ImgRaw&r=0)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narottamchy&label=Profile%20views&color=0e75b6&style=flat" alt="narottamchy" /> </p>
 
