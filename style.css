@@ -1,9 +1,0 @@
-body {
-  background: url('https://media2.giphy.com/media/l3vRfGbyb3RUjsPFS/giphy.gif?cid=ecf05e477adpjhxw06z6yofpjuco8kkn5djspzk7s2i1670g&ep=v1_gifs_search&rid=giphy.gif&ct=g') fixed;
-  animation: stars-animation 20s linear infinite;
-}
-
-@keyframes stars-animation {
-  0% { background-position: 0 0; }
-  100% { background-position: 1000px 1000px; }
-}
