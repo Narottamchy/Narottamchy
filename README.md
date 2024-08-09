@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **React JS, Next JS, Node JS, full-stack development**
 
+- 💻 Portfolio of mine <a href="https://narottam.vercel.app" target="blank">**https://narottam.vercel.app**</a>
+
 - 📫 How to reach me **narottam2363@gmail.com**
 
 - ⚡ Fun fact **I once hacked into NASA🚀**
