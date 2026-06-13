@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React JS, Next JS, Node JS, full-stack development**
 
-- 💻 Portfolio of mine <a href="https://narottam.vercel.app" target="blank">**https://narottam.vercel.app**</a>
+- 💻 Portfolio of mine <a href="https://narottamchy.in" target="blank">**https://narottamchy.in**</a>
 
 - 📫 How to reach me **narottam2363@gmail.com**
 
